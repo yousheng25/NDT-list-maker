@@ -1,0 +1,12 @@
+System name,Maneuvering system
+Date,2023.06.27
+Part number,Material of Base,Material of Parts,Structure Category,Welding Category,Drawing,MT/PT Minimum Required Efficiency,MT/PT Final Inspection time,UT/RT Minimum Required Efficiency,UT/RT Final Inspection time,Remarks
+E-D1-001,TI-6242,TI-6242,A,Full penetration weld,100%,168 hours,100%,48 hours,
+E-D1-002,TI 6242,TI-6242,A,Full penetration weld,100%,168 hours,N/A,N/A,Replacing by MT/PT in each welding layer
+E-D1-003,TI-6242,TI-6242,A,Full penetration weld,100%,168 hours,100%,48 hours,
+E-212-001,TI 6242,INCONEL 718,B,Full penetration weld,100%,24 hours,N/A,N/A,
+E-212-002,INCONEL 718,INCONEL 718,C,Partial penetration weld,100%,Normal temperature,N/A,N/A,
+E-D2-002,TI 6242,TI-6242,A,Full penetration weld,100%,168 hours,N/A,N/A,Replacing by MT/PT in each welding layer
+E-D2-003,TI-6242,TI-6242,A,Full penetration weld,100%,168 hours,100%,48 hours,
+E-F2-004,A92219,A92219,B,Partial penetration weld,100%,24 hours,N/A,N/A,
+S-212-001,A92219,A92219,C,Fillet weld,100%,Normal temperature,N/A,N/A,

@@ -1,0 +1,12 @@
+System name,Air system,,,,,,,,,
+Date,2023.06.27,,,,,,,,,
+Part number,Material of Base,Material of Parts,Structure Category,Welding Category,Drawing,MT/PT Minimum Required Efficiency,MT/PT Final Inspection time,UT/RT Minimum Required Efficiency,UT/RT Final Inspection time,Remarks
+E-D1-001,TI-6242,TI-6242,B,Full penetration weld,F10900,,,,,
+E-D1-002,Ti 6242,Ti-6242,B,Full penetration weld,F10900,,,,,
+E-D1-003,TI-6242,TI-6242,B,Full penetration weld,F10900,,,,,
+E-212-001,A92219,A92219,C,Fillet weld,F10810,,,,,
+E-212-002,A92219,A92219,C,Fillet weld,F10810,,,,,
+E-D2-002,A92219,A92219,C,Fillet weld,F10810,,,,,
+E-D2-003,TI-6242,TI-6242,A,Full penetration weld,F10900,,,,,
+E-F2-004,A92219,A92219,B,Fillet weld,F10810,,,,,
+S-212-001,A92219,A92219,C,Fillet weld,F10810,,,,,

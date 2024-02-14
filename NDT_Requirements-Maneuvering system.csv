@@ -1,0 +1,12 @@
+System name,Maneuvering system
+Date,2023.06.27
+Part number,Material of Base,Material of Parts,Structure Category,Welding Category,Drawing,MT/PT Minimum Required Efficiency,MT/PT Final Inspection time,UT/RT Minimum Required Efficiency,UT/RT Final Inspection time,Remarks
+E-D1-001,TI-6242,TI-6242,A,Full penetration weld,F10901,,,,,
+E-D1-002,Ti 6242,Ti-6242,A,Full penetration weld,F10901,,,,,
+E-D1-003,TI-6242,TI-6242,A,Full penetration weld,F10901,,,,,
+E-212-001,Ti 6242,Inconel 718,B,Full penetration weld,F10922,,,,,
+E-212-002,Inconel 718,Inconel 718,C,Partial penetration weld,F10922,,,,,
+E-D2-002,Ti 6242,Ti-6242,A,Full penetration weld,F10901,,,,,
+E-D2-003,TI-6242,TI-6242,A,Full penetration weld,F10901,,,,,
+E-F2-004,A92219,A92219,B,Partial penetration weld,F10901,,,,,
+S-212-001,A92219,A92219,C,Fillet weld,F10922,,,,,
